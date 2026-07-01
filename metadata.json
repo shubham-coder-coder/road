@@ -1,0 +1,6 @@
+{
+  "name": "RoadSmart AI",
+  "description": "AI-based real-time smart pothole detection and road damage monitoring system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
